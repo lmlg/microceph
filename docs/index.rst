@@ -3,6 +3,7 @@ MicroCeph
 =========
 
 MicroCeph is the easiest way to get up and running with Ceph.
+(documentation is now hosted on RTD).
 
 MicroCeph is a lightweight way of deploying and managing a Ceph cluster. Ceph
 is a highly scalable, open-source distributed storage system designed to
